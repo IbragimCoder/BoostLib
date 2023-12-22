@@ -5,7 +5,6 @@
 
 using boost::multiprecision::cpp_dec_float_50;
 
-
 int main()
 {
     cpp_dec_float_50 sum = 0;
